@@ -1,2 +1,4 @@
-# Portfolio_Website
-This is my portfolio, please fell free to explore my projects
+# Conrad Bravo Portfolio Website
+Welcome to my homepage.
+# About me
+I am a Software Engineer Student that likes the technolgy world a lot. 
